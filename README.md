@@ -1,2 +1,2 @@
 # idtax
-calculate tax in id
+calculate tax in id and all
