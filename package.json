@@ -1,0 +1,19 @@
+{
+  "name": "VSCODE",
+  "version": "1.0.0",
+  "description": "calculate tax in id and all",
+  "main": "js.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {"jest": "^27.0.6"},
+  "scripts": {
+    "test": "jest --coverage --env=jsdom"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "setupFiles": [
+    "./__mocks__/index.js"
+  ]
+}
